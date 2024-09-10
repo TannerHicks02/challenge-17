@@ -25,4 +25,4 @@ The tutorial is designed to help web development students and professionals unde
 
 ## Author
 
-This tutorial was created by [Your Name]. You can find more of my work on my [GitHub profile](https://github.com/TannerHicks02).
+This tutorial was created by [Tanner Hicks]. You can find more of my work on my [GitHub profile](https://github.com/TannerHicks02).
